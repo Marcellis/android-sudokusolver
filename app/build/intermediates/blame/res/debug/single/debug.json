@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/layout_sudokugrid.xml.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/layout/sudokugrid.xml"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/layout-land_activity_main.xml.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/drawable_cell_shape.xml.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/drawable/cell_shape.xml"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/layout-large_sudokugridlarge.xml.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/layout-large/sudokugridlarge.xml"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/layout-large_activity_main.xml.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/layout-large/activity_main.xml"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/menu_display_message.xml.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/menu/display_message.xml"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/layout-large-land_activity_main.xml.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/layout-large-land/activity_main.xml"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/marmm/AndroidStudioProjects/swipeviewcontentprovider/android-sudokusolver/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
